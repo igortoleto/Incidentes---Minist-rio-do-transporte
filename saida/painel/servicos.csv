@@ -1,0 +1,11 @@
+servico,incidentes,participacao,pct_sla
+Conta bloqueada,5548,0.2494,0.999
+Falha de funcionamento de periféricos,1969,0.0885,0.979
+Lentidão em Sistema Operacional,1286,0.0578,0.977
+Falha de inicialização em Sistema Operacional,1228,0.0552,0.985
+Falha na funcionalidade do Aplicativo e Software,1100,0.0495,0.98
+Outros incidentes relacionados a Desktops e Notebooks,1057,0.0475,0.98
+Outros incidentes relacionados a Usuários,891,0.0401,0.991
+"Falha na funcionalidade do Aplicativo, Software e Sistema",879,0.0395,0.969
+Falha na impressão,709,0.0319,0.994
+Falha na funcionalidade de Sistemas Corporativos,669,0.0301,0.969

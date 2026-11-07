@@ -1,0 +1,17 @@
+# Dados brutos baixados do portal (são recriados por coleta.py)
+dados/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Planilhas temporárias do Excel
+~$*.xlsx
